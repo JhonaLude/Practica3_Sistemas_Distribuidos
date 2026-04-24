@@ -1,0 +1,80 @@
+2026-04-24 00:37:58,469 - Mutex terminado: 500000
+2026-04-24 00:38:34,017 - Atleta 1 esperando
+2026-04-24 00:38:34,017 - Atleta 2 esperando
+2026-04-24 00:38:34,017 - Atleta 1 usando máquina
+2026-04-24 00:38:34,017 - Atleta 3 esperando
+2026-04-24 00:38:34,018 - Atleta 4 esperando
+2026-04-24 00:38:34,018 - Atleta 2 usando máquina
+2026-04-24 00:38:34,018 - Atleta 5 esperando
+2026-04-24 00:38:34,019 - Atleta 3 usando máquina
+2026-04-24 00:38:34,019 - Atleta 6 esperando
+2026-04-24 00:38:34,019 - Atleta 7 esperando
+2026-04-24 00:38:34,020 - Atleta 8 esperando
+2026-04-24 00:38:35,018 - Atleta 1 libera máquina
+2026-04-24 00:38:35,019 - Atleta 4 usando máquina
+2026-04-24 00:38:35,019 - Atleta 2 libera máquina
+2026-04-24 00:38:35,019 - Atleta 5 usando máquina
+2026-04-24 00:38:35,019 - Atleta 3 libera máquina
+2026-04-24 00:38:35,020 - Atleta 6 usando máquina
+2026-04-24 00:38:36,019 - Atleta 4 libera máquina
+2026-04-24 00:38:36,020 - Atleta 7 usando máquina
+2026-04-24 00:38:36,020 - Atleta 5 libera máquina
+2026-04-24 00:38:36,020 - Atleta 6 libera máquina
+2026-04-24 00:38:36,020 - Atleta 8 usando máquina
+2026-04-24 00:38:37,020 - Atleta 7 libera máquina
+2026-04-24 00:38:37,021 - Atleta 8 libera máquina
+2026-04-24 00:39:31,455 - Produce Pan 1
+2026-04-24 00:39:31,455 - Consume Pan 1
+2026-04-24 00:39:31,955 - Produce Pan 2
+2026-04-24 00:39:32,456 - Consume Pan 2
+2026-04-24 00:39:32,456 - Produce Pan 3
+2026-04-24 00:39:32,956 - Produce Pan 4
+2026-04-24 00:39:33,456 - Consume Pan 3
+2026-04-24 00:39:33,457 - Produce Pan 5
+2026-04-24 00:39:33,957 - Produce Pan 6
+2026-04-24 00:39:34,457 - Consume Pan 4
+2026-04-24 00:39:34,457 - Produce Pan 7
+2026-04-24 00:39:34,958 - Produce Pan 8
+2026-04-24 00:39:35,457 - Consume Pan 5
+2026-04-24 00:39:35,458 - Produce Pan 9
+2026-04-24 00:39:35,958 - Produce Pan 10
+2026-04-24 00:39:36,458 - Consume Pan 6
+2026-04-24 00:39:36,459 - Produce Pan 11
+2026-04-24 00:39:36,959 - Produce Pan 12
+2026-04-24 00:39:37,458 - Consume Pan 7
+2026-04-24 00:39:37,459 - Produce Pan 13
+2026-04-24 00:39:37,960 - Produce Pan 14
+2026-04-24 00:39:38,459 - Consume Pan 8
+2026-04-24 00:39:38,460 - Produce Pan 15
+2026-04-24 00:39:38,961 - Produce Pan 16
+2026-04-24 00:39:39,459 - Consume Pan 9
+2026-04-24 00:39:39,461 - Produce Pan 17
+2026-04-24 00:39:39,961 - Produce Pan 18
+2026-04-24 00:39:40,460 - Consume Pan 10
+2026-04-24 00:39:40,462 - Produce Pan 19
+2026-04-24 00:39:40,962 - Produce Pan 20
+2026-04-24 00:39:41,460 - Consume Pan 11
+2026-04-24 00:39:42,460 - Consume Pan 12
+2026-04-24 00:39:43,461 - Consume Pan 13
+2026-04-24 00:39:44,461 - Consume Pan 14
+2026-04-24 00:39:45,462 - Consume Pan 15
+2026-04-24 00:39:46,462 - Consume Pan 16
+2026-04-24 00:39:47,463 - Consume Pan 17
+2026-04-24 00:39:48,463 - Consume Pan 18
+2026-04-24 00:39:49,463 - Consume Pan 19
+2026-04-24 00:39:50,464 - Consume Pan 20
+2026-04-24 00:40:28,695 - Lector 1 leyendo
+2026-04-24 00:40:28,696 - Lector 2 leyendo
+2026-04-24 00:40:28,696 - Lector 3 leyendo
+2026-04-24 00:40:28,696 - Escritor esperando
+2026-04-24 00:40:29,697 - Escritor escribiendo
+2026-04-24 00:41:04,422 - Hilo 1 Fase 1
+2026-04-24 00:41:04,422 - Hilo 2 Fase 1
+2026-04-24 00:41:04,422 - Hilo 3 Fase 1
+2026-04-24 00:41:04,423 - Hilo 4 Fase 1
+2026-04-24 00:41:04,423 - Hilo 5 Fase 1
+2026-04-24 00:41:05,423 - Hilo 5 Fase 2
+2026-04-24 00:41:05,424 - Hilo 1 Fase 2
+2026-04-24 00:41:05,424 - Hilo 2 Fase 2
+2026-04-24 00:41:05,424 - Hilo 4 Fase 2
+2026-04-24 00:41:05,424 - Hilo 3 Fase 2
